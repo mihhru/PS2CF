@@ -1,0 +1,23 @@
+{
+  "upstream": "ChaN FatFs R0.16",
+  "url": "https://elm-chan.org/fsw/ff/arc/ff16.zip",
+  "archive_sha256": "99f7dc1f7e095356e4a9e3dbe29959090d8b948afe2bbc5441e52fdf4b85449e",
+  "settings": {
+    "FF_FS_READONLY": 1,
+    "FF_CODE_PAGE": 866,
+    "FF_USE_LFN": 1,
+    "FF_LFN_UNICODE": 2,
+    "FF_LFN_BUF": 255,
+    "FF_SFN_BUF": 34,
+    "FF_FS_TINY": 1,
+    "FF_FS_CRTIME": 1,
+    "FF_MULTI_PARTITION": 1,
+    "FF_FS_NORTC": 1
+  },
+  "source_files_unmodified": [
+    "ff.c",
+    "ff.h",
+    "ffunicode.c",
+    "diskio.h"
+  ]
+}

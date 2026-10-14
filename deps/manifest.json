@@ -1,0 +1,12 @@
+{
+  "FMCB-1966.7z": {
+    "url": "https://github.com/israpps/FreeMcBoot-Installer/releases/download/latest/FMCB-1966.7z",
+    "sha256": "46fe60a4c4c4195de0570dd0b8d6c1cd30232311b08c27ada315518617a87ab1",
+    "bytes": 7910994
+  },
+  "FMCB1966.sd2psxtd-reference.mcd": {
+    "url": "https://github.com/sd2psXtd/sd2psXtd.github.io/releases/download/latest/FMCB-1966.mcd",
+    "sha256": "26d046d0c03f74e603f0fa29e09be7a4e1221d8c1e569a2753ffecdbdc1ff2d5",
+    "bytes": 8388608
+  }
+}

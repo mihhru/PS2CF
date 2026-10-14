@@ -1,0 +1,380 @@
+comments: |-
+  Hungarian translation by co5oos & sAGA
+  For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
+translations:
+  LOCALE: Hungarian
+  SAVE_CHANGES: Változtatások mentése
+  BACK: Vissza
+  NETCONFIG: Hálózat konfigurálása
+  SHOW_ADVANCED_OPTS: Haladó beállítások
+  NO_ITEMS: <Nincs érték>
+  SETTINGS_SAVED: Beállítások elmentve ide %s
+  ERROR_SAVING_SETTINGS: Hiba a beállítások írásában!
+  EXIT: Kilépés
+  SETTINGS: Beállítások
+  MENU: Menü
+  BDM_GAMES: BDM játékok
+  HDD_GAMES: HDD játékok
+  NET_GAMES: ETH játékok
+  APPS: Alkalmazások
+  THEME: Téma
+  LANGUAGE: Nyelv
+  CONFIRMATION_POFF: A rendszer le fog állni.
+  CONFIRMATION_EXIT: Kilépés a Browser-be?
+  CONFIRMATION_CANCEL_UPDATE: Frissítés visszavonása?
+  HDD_NOT_CONNECTED_ERROR: '%d: Merevlemez nem található'
+  HDD_NOT_FORMATTED_ERROR: '%d: Merevlemez nincs leformázva'
+  NETWORK_STARTUP_ERROR: '%d: Hálózat indítási hiba'
+  NETWORK_STARTUP_ERROR_NETIF: '%d: Nem található hálózati adapter'
+  NETWORK_STARTUP_ERROR_CONN: '%d: Nem sikerült csatlakozni az SMB szerverhez'
+  NETWORK_STARTUP_ERROR_LOGON: '%d: Nem sikerült bejelentkezni az SMB szerverbe'
+  NETWORK_STARTUP_ERROR_SHARE: '%d: Nem sikerült megnyitni az SMB megosztást'
+  NETWORK_SHARE_LIST_ERROR: '%d: Nem sikerült listázni az SMB megosztásokat'
+  NETWORK_GAMES_LIST_ERROR: '%d: Nem sikerült listázni a játékokat'
+  NETWORK_ERROR_DHCP_FAIL: '%d: DHCP szerver nem elérhető'
+  NETWORK_ERROR_LINK_FAIL: '%d: Nincs hálózati kapcsolat'
+  'ON': Be
+  'OFF': Ki
+  OK:
+  - untranslated
+  - original: OK
+  SELECT: Kiválaszt
+  CANCEL: Vissza
+  CIRCLE: Kör
+  CROSS: Kereszt
+  GAMES_LIST: Játék lista
+  COMPAT_SETTINGS: Játékbeállítások
+  REMOVE_ALL_SETTINGS: Beállítások eltávolítása
+  SCROLLING: Görgetés
+  SLOW: Lassú
+  MEDIUM: Közepes
+  FAST: Gyors
+  DEFDEVICE: Alapértelmezett menü
+  LOAD_FROM_DISC: Lemezről való beolvasás
+  PLEASE_WAIT: Kérem várjon
+  ERROR_LOADING_ID: Hiba a Játék ID betöltése közben
+  AUTOSORT: Automatikus rendezés
+  ERR_LOADING_LANGFILE: Hiba a nyelv fájl betöltésnél
+  DEBUG: Debug színek
+  NO_CONTROLLER: Nem található kontroller, várakozás…
+  COVERART: Borítókép
+  WIDE_SCREEN: Szélesvásznú mód
+  POWEROFF: Kikapcsolás
+  LOADING_SETTINGS: Konfiguráció betöltése
+  SAVING_SETTINGS: Konfiguráció mentése
+  START_DEVICE: Eszköz indítása
+  REFRESH: Frissítés
+  BDMMODE: BDM start mód
+  HDDMODE: HDD eszköz indítási mód
+  ETHMODE: ETH eszköz indítási mód
+  APPMODE: Alkalmazások menü megjelenítési mód
+  AUTO: Automatikus
+  MANUAL: Manuális
+  STARTNBD: NBD szerver indítása
+  STARTINGNBD: NBD szerver elindul…
+  RUNNINGNBD: NBD szerver fut…
+  STARTFAILNBD: Az NBD szerver elindítása sikertelen.
+  UNLOADNBD: Az NBD szerver kirakodása…
+  EXITTO: IGR útvonal
+  BGCOLOR: Háttérszín
+  TXTCOLOR: Szövegszín
+  CAT_SMB_SERVER: '- SMB szerver -'
+  IP_ADDRESS_TYPE: IP cím típus
+  IP_ADDRESS_TYPE_STATIC: Statikus
+  IP_ADDRESS_TYPE_DHCP:
+  - untranslated
+  - original: DHCP
+  IP_ADDRESS: IP cím
+  ADDRESS: Cím
+  MASK: Maszk
+  GATEWAY: Alapértelmezett átjáró
+  DNS_SERVER: DNS szerver
+  PORT:
+  - untranslated
+  - original: Port
+  SHARE: Megosztás
+  USER: Felhasználónév
+  PASSWORD: Jelszó
+  NOT_SET: <nincs megadva>
+  ADDRESS_TYPE: Cím típus
+  ADDR_TYPE_IP:
+  - untranslated
+  - original: IP
+  ADDR_TYPE_NETBIOS:
+  - untranslated
+  - original: NetBIOS
+  ACCEPT: Elfogad
+  DELETE_WARNING: Az elem véglegesen törlésre kerül, folytatja?
+  RENAME: Átnevezés
+  DELETE: Törlés
+  RUN: Futtatás
+  GFX_SETTINGS: Képernyőbeállítások
+  ENABLE_WRITE: Írásműveletek
+  LASTPLAYED: Emlékezzen a legutóbbi játékra
+  SELECTBUTTON: SELECT gomb
+  ERR_FRAGMENTED: Hiba, a játék töredezett
+  ERR_FILE_INVALID: Hiba, az elem futtatása sikertelen
+  TEST: Változások tesztelése
+  HINT_GUEST: Hagyja üresen VENDÉG hitelesítéshez
+  HINT_MODE1: Pontos olvasás
+  HINT_MODE2: Egyidejű mód
+  HINT_MODE3: Syscalls kiakasztás
+  HINT_MODE4: Videók átugrása
+  HINT_MODE5: DVD-DL emulálása
+  HINT_MODE6: IGR letiltása
+  HINT_VMC_SIZE: A méretváltoztatás leformázza a VMC-t
+  CREATE: Létrehoz
+  START: Indít
+  MODIFY: Módosít
+  ABORT: Megszakít
+  RESET: Visszaállítás
+  USE_GENERIC: Generikus használata
+  VMC_SCREEN: VMC konfiguráció
+  VMC_NAME: Név
+  SIZE: Méret
+  VMC_STATUS: Állapot
+  VMC_PROGRESS: Folyamat
+  VMC_FILE_EXISTS: A VMC fájl már létezik
+  VMC_FILE_ERROR: Érvénytelen VMC fájl, helytelen méret
+  VMC_FILE_NEW: VMC fájl létrehozása szükséges
+  ERR_VMC_CONTINUE: Hiba a VMC-vel %s, folytatás a fizikai MC-vel (foglalat %d) ?
+  AUTOREFRESH: Automatikus frissítés
+  ABOUT: Névjegy
+  DEVS: Kódolók
+  QANDA: Minőségbiztosítás
+  BDM_PREFIX: BDM előtag elérési út
+  HINT_EXITPATH: Testreszabott ELF bootolása egy IGR után
+  HINT_SPINDOWN: Érték percben, 0 a kikapcsolás letiltása
+  HDD_SPINDOWN: Automatikus merevlemez kikapcsolás
+  VMODE: Videó mód
+  UICOLOR: Párbeszédablak színe
+  SELCOLOR: Kiválasztott elem színe
+  RESETCOLOR: Színek visszaállítása
+  INFO: Infó
+  ALTSTARTUP: Testreszabott ELF
+  COLOR_SELECTION: Szín szelekció
+  RECONNECT: Újracsatlakozás
+  HINT_SHARENAME: Hagyja üresen a megosztások listázásához
+  ETH_PREFIX: ETH előtag elérési út
+  BACKSPACE:
+  - untranslated
+  - original: Backspace
+  SPACE: Szóköz
+  ENTER:
+  - untranslated
+  - original: Enter
+  MODE: Mód
+  VMC_SLOT1: VMC foglalat 1
+  VMC_SLOT2: VMC foglalat 2
+  GAME_ID: Játék ID
+  DMA_MODE: DMA mód
+  VSYNC:
+  - untranslated
+  - original: V-Sync
+  MODE1: Mód 1
+  MODE2: Mód 2
+  MODE3: Mód 3
+  MODE4: Mód 4
+  MODE5: Mód 5
+  MODE6: Mód 6
+  GSCONFIG: GSM konfiguráció
+  ETH_OPMODE: Ethernet kapcsolat módja
+  ETH_100MFDX: 100Mbit full-duplex
+  ETH_100MHDX: 100Mbit half-duplex
+  ETH_10MFDX: 10Mbit full-duplex
+  ETH_10MHDX: 10Mbit half-duplex
+  GSM_SETTINGS: GSM beállítások
+  ENABLEGSM:
+  - untranslated
+  - original: GSM Selector
+  HINT_ENABLEGSM: KI vagy BE kapcsolja a GSM-et
+  HINT_GSMVMODE: Kényszerített testreszabott megjelenítési mód
+  XOFFSET: Vízszintes-pozíció
+  HINT_XOFFSET: Vízszintes szabályozás
+  YOFFSET: Függőleges-pozíció
+  HINT_YOFFSET: Függőleges szabályozás
+  OVERSCAN:
+  - untranslated
+  - original: Overscan
+  HINT_OVERSCAN: Overscan beállítása
+  GSMSKIPVIDEOS: FMV átugrása
+  HINT_GSMSKIPVIDEOS: Átugorja a Full Motion videókat
+  CHEAT_SETTINGS: Csalás beállítások
+  ENABLECHEAT:
+  - untranslated
+  - original: PS2RD Cheat Engine
+  HINT_ENABLECHEAT: Engedi a PS2RD csalásmotornak, hogy patch-elje a játékokat.
+  CHEATMODE: PS2RD csalásmotor mód
+  HINT_CHEATMODE: Auto-kiválaszt vagy játékcsalások kiválasztása
+  CHEATMODEAUTO: Csalások Auto-kiválasztása
+  CHEATMODESELECT: Játékcsalások kiválasztása
+  ERR_CHEATS_LOAD_FAILED: 'Hiba: A Csalásfájl betöltése sikertelen'
+  NO_CHEATS_FOUND: Nem találhatóak csalások
+  DL_DEFAULTS: Alapértelmezések letöltése
+  NET_UPDATE: Hálózati frissítés
+  NET_UPDATE_ALL: Létező rekordok felülírása
+  NET_UPDATE_FAILED: Frissítés sikertelen.
+  NET_UPDATE_CONN_FAILED: Nem sikerült csatlakozni a frissítő szerverhez.
+  NET_UPDATE_DONE: Frissítés befejezve.
+  NET_UPDATE_CANCELLED: Frissítés visszavonva.
+  CONFIRMATION_SETTINGS_UPDATE: Beállítások letöltése a hálózatról?
+  CUSTOMIZED_SETTINGS: Testreszabott beállítások
+  DOWNLOADED_DEFAULTS: Letöltött alapértelmezések
+  AUTO_START_IN_N_SECS: Automatikus indítás %i mp-en belül…
+  AUTOSTARTLAST: Automatikus indítás
+  HINT_AUTOSTARTLAST: Érték másodpercben, 0 az Automatikus indítás letiltásához
+  PS2LOGO: PS2 logó
+  HINT_PS2LOGO: Csak egy érvényes lemez logónál jelenik meg, amely egyezik a konzol régiójával
+  PADEMUCONFIG: PADEMU konfigurálása
+  PADEMU_SETTINGS: Pad Emulator beállítások
+  PADEMU_ENABLE:
+  - untranslated
+  - original: Pad Emulator
+  HINT_PADEMU_ENABLE: Be/ki kapcsolja a PadEmulátor-t a kiválaszott játékhoz.
+  PADEMU_MODE: Pad Emulátor mód
+  HINT_PADEMU_MODE: Válassza ki a PadEmulátor módját.
+  DS34USB_MODE:
+  - untranslated
+  - original: DualShock3/4 USB
+  DS34BT_MODE:
+  - untranslated
+  - original: DualShock3/4 BT
+  PADPORT: 'Port beállítások:'
+  HINT_PAD_PORT: Válassza ki a PadEmulátor portot a beállításokhoz.
+  PADEMU_PORT:
+  - untranslated
+  - original: Emulation
+  HINT_PADEMU_PORT: Be/ki kapcsolja a PadEmulátor-t a kiválasztott porthoz.
+  PADEMU_VIB:
+  - untranslated
+  - original: Vibration
+  HINT_PADEMU_VIB: Be/ki kapcsolja a rezgést a PadEmulátor kiválasztott portjához.
+  USBDG_MAC: 'USB bluetooth adapter mac címe:'
+  PAD_MAC: 'DS kontroller a következő MAC címhez párosítva:'
+  PAIR: Párosítás
+  PAIR_PAD: DS kontroller párosítása
+  HINT_PAIRPAD: DS kontroller párosítása Bluetooth adapter MAC címmel.
+  NOT_CONNECTED: Nincs csatlakoztatva
+  BTINFO: Bluetooth adapter információ
+  HINT_BTINFO: Több információ és támogatott funkciók mutatása
+  HCIVER: 'HCI verzió:'
+  LMPVER: 'LMP verzió:'
+  MANUFACTURER: 'Gyártó ID:'
+  SUPFEATURES: 'Támogatott funkciók:'
+  'YES': Igen
+  'NO': Nem
+  BT_SUPPORTED: A Bluetooth adapternek teljes mértékben kompatibilisnek kell lennie
+    a DS3/DS4 kontrollerekkel.
+  BT_NOTSUPPORTED: A Bluetooth adapter nem biztos, hogy megfelelően fog működni DS3/DS4
+    kontrollerekkel.
+  MTAP_ENABLE:
+  - untranslated
+  - original: Multitap Emulation
+  HINT_MTAP_ENABLE: Ki/be kapcsolja a Multitap emulációt a kiválasztott játékhoz.
+  MTAP_PORT: Multitap emuláció ezen a porton
+  HINT_MTAP_PORT: Válassza ki a portot a Multitap emulációhoz.
+  PADEMU_WORKAROUND:
+  - untranslated
+  - original: Fake DS3 Workaround
+  HINT_PADEMU_WORKAROUND:
+  - untranslated
+  - original: Some fake DS3s need a workaround, this option will enable it.
+  GSM_FIELD_FIX: FIELD flipping emulálása
+  HINT_GSM_FIELD_FIX: Fix azon játékokhoz, melyek hibát produkálnak progresszív videó
+    mód alatt.
+  PARENLOCKCONFIG: Gyerekzár beállítások
+  PARENLOCK_PASSWORD: Gyerekzár jelszó
+  PARENLOCK_PASSWORD_HINT: Hagyja üresen a gyerekzár kikapcsolásához.
+  PARENLOCK_ENTER_PASSWORD_TITLE: Írja be a gyerekzár jelszót
+  PARENLOCK_PASSWORD_INCORRECT: Gyerekzár jelszó helytelen.
+  PARENLOCK_DISABLE_WARNING: Gyerekzár kikapcsolva.
+  BUILD_DETAILS: 'Build opciók:'
+  PARENLOCK_INVALID_PASSWORD: Hiba - ez a jelszó nem használható.
+  ERR_VMC_FRAGMENTED_CONTINUE: VMC %s fájl töredezett. Folytatás a %d foglalatban
+    lévő memóriakártyával?
+  AUDIO_SETTINGS: Hangbeállítások
+  SFX: Hangeffektek
+  BOOT_SND: Boot effekt
+  SFX_VOLUME: Hanghatások hangereje
+  BOOT_SND_VOLUME: Boot effekt hangereje
+  CFM_VMODE_CHG: jóváhagyja a Videó mód változtatását?
+  CACHE_HDD_GAME_LIST: Játéklista cachelés (HDD)
+  ENABLE_NOTIFICATIONS: Értesítések
+  CFG_NOTIFICATION:
+  - untranslated
+  - original: Config loaded from %s
+  THM_NOTIFICATION:
+  - untranslated
+  - original: Theme loaded from %s
+  LNG_NOTIFICATION:
+  - untranslated
+  - original: Language loaded from %s
+  PARTITION_NOTIFICATION:
+  - untranslated
+  - original: '%s partíció mountolva.'
+  OPTIONS: Opciók
+  GAME_SETTINGS_SAVED: Játékbeállítások elmentve.
+  GAME_SETTINGS_REMOVED: '%s beállítások eltávolítva'
+  NET_UPDATE_HINT: Engedélyezéskor felülírja a létező játék kompatibilitási beállításokat.
+  SETTINGS_SOURCE: Beállítások mód
+  GLOBAL_SETTINGS: Globális
+  PERGAME_SETTINGS: Játékonként
+  ALL_SETTINGS: Összes
+  GAME_SETTINGS_PROMPT: Válassza ki az eltávolítani kívánt beállításokat.
+  FORUM_DETAILS: 'Támogatási fórumok:'
+  INFO_TITLE: Cím
+  INFO_GENRE: Műfaj
+  INFO_RELEASE: Kiadás
+  INFO_DEVELOPER: Fejlesztő
+  INFO_DESCRIPTION: Leírás
+  BLOCKDEVICE_SETTINGS:
+  - untranslated
+  - original: Block Devices
+  CONTROLLER_SETTINGS: Kontrollerbeállítások
+  HINT_BDM_START: A Block Device Manager ki/bekapcsolása.
+  HINT_BLOCK_DEVICES: Ki/bekapcsolja a Block eszközöket (pl. USB).
+  USB_GAMES: USB játékok
+  ILINK_GAMES: iLink játékok
+  MX4SIO_GAMES: MX4SIO játékok
+  PADMACROCONFIG: PADMACRO beállítása
+  PADMACRO_SETTINGS: Padmakró beállítások
+  PADMACRO_ENABLE: Padmakrók
+  PADMACRO_SLOWDOWN:
+  - untranslated
+  - original: 'Analog slow-down:'
+  HINT_PADMACRO_SLOWDOWN_AXIS:
+  - untranslated
+  - original: Reduce range of analog stick when button is pressed
+  LEFT_ANALOG: Bal kar
+  RIGHT_ANALOG: Jobb kar
+  PADMACRO_INVERT_AXIS:
+  - untranslated
+  - original: 'Analog axis invert:'
+  HINT_PADMACRO_INVERT_AXIS:
+  - untranslated
+  - original: Invert analog stick axis
+  TURBO_SPEED: Turbo gomb sebessége
+  HINT_TURBO_SPEED: Milyen gyorsan nyomkodja a gombot, ha a turbó aktív
+  ACT_WHILE_PRESSED: Amíg a gomb lenyomva van
+  ACT_TOGGLED: A gombbal átkapcsolható
+  LANGUAGE_JAPANESE: JAPÁN
+  LANGUAGE_ENGLISH: ANGOL
+  LANGUAGE_FRENCH: FRANCIA
+  LANGUAGE_SPANISH: SPANYOL
+  LANGUAGE_GERMAN: NÉMET
+  LANGUAGE_ITALIAN: OLASZ
+  LANGUAGE_DUTCH: HOLLAND
+  LANGUAGE_PORTUGUESE: PORTUGÁL
+  LANGUAGE_RUSSIAN: OROSZ
+  LANGUAGE_KOREAN: KOREAI
+  LANGUAGE_TRAD_CHINESE: HAGYOMÁNYOS KÍNAI
+  LANGUAGE_SIMPL_CHINESE: EGYSZERŰSÍTETT KÍNAI
+  OSD_SETTINGS: OSD beállítások
+  OSD_SETTINGS_LNG: OSD nyelv
+  ENABLE_LNG: Nyelv módosítása
+  BGM: Háttérzene
+  BGM_VOLUME: Háttérzene hangerő
+  DEF_BGM_PATH: Téma alapértelmezett zenéje
+  DEF_BGM_PATH_HINT:
+  - untranslated
+  - original: Set path to stream music for internal theme.

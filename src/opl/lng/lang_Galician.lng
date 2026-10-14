@@ -1,0 +1,331 @@
+# Galician translation by @GomgoUnity - https://github.com/gomgo-github
+# For Open PS2 Loader v1.1.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
+Galician
+Gardar cambios
+Voltar
+Conexión de rede
+Opcións avanzadas
+<Sen configurar>
+Configuración gardada en %s
+Erro ao gardar a configuración!
+Saír
+Configuración principal
+Menú
+Xogos BDM
+Xogos Disco duro
+Xogos Rede
+Aplicacións
+Tema
+Idioma
+O sistema apagarase
+Saír ao navegador da consola?
+Cancelar actualización?
+%d: Disco duro non detectado
+%d: Disco duro non formatado
+%d: Erro ao iniciar a rede
+%d: Non se detectou ningún adaptador de rede
+%d: Non se pode conectar ao servidor SMB
+%d: Non se pode iniciar sesión no servidor SMB
+%d: Non se pode abrir a unidade compartida SMB
+%d: Non se pode listar a unidade compartida SMB
+%d: Non se poden listar os xogos
+%d: Servidor DHCP non dispoñíbel
+%d: Non hai conexión coa rede
+Activado
+Desactivado
+Aceptar
+Seleccionar
+Cancelar
+Círculo
+Cruz
+Lista de xogos
+Configuración do xogo
+Eliminar configuracións
+Velocidade de desprazamento
+Lento
+Medio
+Rápido
+Menú predeterminado
+Cargar dende o disco
+Agarde, por favor
+Erro ao cargar o ID do xogo
+Listas ordenadas alfabeticamente
+Erro ao cargar o ficheiro de idioma
+Cores para depuración
+Mando non atopado, esperando...
+Imaxes da carátula
+Relación de aspecto 16:9
+Apagar PS2
+Cargando configuración...
+Gardando configuración...
+Iniciar dispositivo
+Actualizar
+Modo de arranque para BDM
+Modo de arranque para Disco duro
+Modo de arranque para Rede
+Modo de arranque para Aplicacións
+Automático
+Manual
+Iniciar servidor NBD
+Iniciando servidor NBD...
+Servidor NBD conectado
+Erro ao iniciar o servidor NBD
+Pechando o servidor NBD...
+Ruta do IGR
+Cor de fondo
+Cor de texto
+- Servidor SMB -
+Tipo de enderezo IP
+Estática
+DHCP
+Enderezo IP
+Enderezo
+Máscara de subrede
+Porta de enlace predeterminada
+Servidor DNS
+Porto
+Unidade ou cartafol compartida
+Usuario
+Contrasinal
+<Sen definir>
+Tipo de enderezo
+IP
+NetBIOS
+Aceptar
+O ficheiro será eliminado definitivamente. Continuar?
+Renomear xogo
+Eliminar xogo
+Iniciar
+Configuración de pantalla
+Operacións de escritura
+Recordar último xogo en uso
+Botón de selección
+Erro, o xogo está fragmentado
+Erro, non se puido iniciar o ficheiro
+Probar cambios
+Deixar en branco para autenticar como GUEST
+Lectura precisa
+Modo sincronizado
+Desvincula o sistema
+Omite vídeos
+Emula DVD-DL
+Quita o IGR
+Cambiar o tamaño formatará a VMC
+Crear
+Iniciar
+Modificar
+Abortar
+Reiniciar
+Usar xenérica
+Configuración VMC
+Nome
+Tamaño
+Estado
+Progreso
+Ficheiro VMC creado
+Ficheiro VMC inválido, o tamaño é incorrecto
+O ficheiro VMC debe crearse
+Erro ao acceder á VMC %s, continuar coa tarxeta de memoria na rañura %d?
+Refresco automático das listas
+Acerca de OPL
+Desenvolvedores
+Testadores
+Ruta predeterminada BDM
+Deixar en branco para saír ao navegador de PS2
+Valor en minutos, 0 para desactivar a pausa automática
+Pausa automático da rotación do disco duro
+Resolución de pantalla
+Cor de diálogos
+Cor de selección
+Restablecer cores
+Info.
+Ficheiro ELF personalizado
+Seleccionar cor
+Reconexión
+Deixar en branco para mostrar tódalas unidades ou cartafoles compartidas
+Ruta predeterminada da conexión de rede
+Retroceso
+Espacio
+Intro
+Modo
+Rañura VMC 1
+Rañura VMC 2
+Código ID do xogo
+Modo DMA
+Sincronización vertical
+Modo 1
+Modo 2
+Modo 3
+Modo 4
+Modo 5
+Modo 6
+Configuración GSM
+Configuración de velocidade Ethernet e dúplex
+100Mbit full-dúplex
+100Mbit half-dúplex
+10Mbit full-dúplex
+10Mbit half-dúplex
+Opcións GSM
+Selector GSM
+Activa/Desactiva o GSM para cambiar resolucións de pantalla
+Cambiar a resolución de pantalla seleccionada
+Posición horizontal
+Move a posición horizontal da pantalla
+Posición vertical
+Move a posición vertical da pantalla
+Marxes da pantalla
+Permite variar o zoom para axustar as marxes da imaxe coa pantalla
+Saltar vídeos FMV
+Saltar escenas Full Motion Vídeos
+Configuración PS2RD
+Motor de códigos PS2RD
+Activa/Desactiva o PS2RD para usar códigos co xogo
+Modo PS2RD
+Selección automática ou manual dos códigos para o xogo
+Selección automática dos códigos
+Selección manual dos códigos
+Erro: fallou a carga do ficheiro de códigos
+Non se atoparon códigos
+Descargar configuración predeterminada
+Descargar configuracións dos xogos
+Sobrescribir configuración existente
+Actualización errada
+Erro ao conectarse co servidor de actualización
+Actualización completa
+Actualización cancelada
+Descargar configuración dende a rede?
+Configuracións personalizadas
+Descargada a configuración predeterminada
+Inicio en %i s...
+Inicio automático
+Valor en segundos, 0 para desactivar o inicio automático
+Logotipo PlayStation 2
+Só se mostrará se o xogo é da mesma rexión que a consola.
+Configuración DualShock 3/4
+Opcións emulación de mando
+Emulación do mando
+Activa/desactiva a emulación do mando para o xogo seleccionado
+Modo emulación de mando
+Selecciona o modo de emulación do mando
+DualShock 3/4 USB
+DualShock 3/4 Bluetooth
+Axustes para o porto:
+Selecciona o porto do mando emulado para aplicar os axustes
+Emulación
+Activa/Desactiva a emulación do mando para o porto seleccionado
+Vibración
+Activa/Desactiva a vibración para o mando emulado no porto seleccionado
+Enderezo MAC do adaptador Bluetooth USB:
+Mando sincronizado co enderezo MAC:
+Sincronizar
+Sincronización mando DualShock
+Sincronizar mando DualShock co enderezo MAC do adaptador Bluetooth
+Non conectado
+Información adaptador Bluetooth
+Amosa máis información e as funcións soportadas
+Versión HCI:
+Versión LMP:
+ID fabricante:
+Funcións soportadas:
+Si
+Non
+O adaptador Bluetooth debe ser totalmente compatible cos mandos DS3/DS4
+O adaptador Bluetooth pode non funcionar correctamente cos mandos DS3/DS4
+Emulación Multitap
+Activa/Desactiva a emulación Multitap para o xogo seleccionado
+Emulación Multitap no porto:
+Selecciona porto para a emulación Multitap
+Solución alternativa para os DS3 falsos
+Algúns DS3 falsos necesitan unha solución alternativa, esta opción actíva tal solución
+Emular alternancia de valores do CAMPO
+Solución para xogos que fallan baixo resolucións progresivas
+Control parental
+Contrasinal
+Deixar en branco para desactivar o control parental
+Introduce o contrasinal do control parental
+O contrasinal do control parental é incorrecto
+Control parental desactivado
+Opcións de compilación:
+Erro - non se pode usar este contrasinal
+O ficheiro VMC %s está fragmentado. Continuar coa tarxeta de memoria na rañura %d?
+Configuración de son
+Efectos de son
+Son de inicio
+Volume efectos de son
+Volume son de inicio
+Confirmar o cambio de resolución de pantalla?
+Caché lista de Xogos (Disco duro)
+Notificacións
+Configuración cargada dende %s
+Tema cargado dende %s
+Idioma cargado dende %s
+Partición %s montada
+Opcións
+Configuración do xogo gardada
+Axuste %s eliminado
+Cando se activa, sobrescribe a configuración de compatibilidade do xogo
+Modo de configuración
+Global
+Por xogo
+Todo
+Selecciona configuracións para eliminar
+Foros de soporte:
+Título
+Xénero
+Lanzamento
+Desenvolvedor
+Descrición
+Dispositivos de bloque
+Configuración do mando
+Activa/Desactiva o Xestor de Dispositivos de Bloque (Block Device Manager)
+Selecciona dispositivos de bloque (Exemplo: USB, iLink, MX4SIO)
+Xogos USB
+Xogos iLink
+Xogos MX4SIO
+Configuración funcións do mando
+Opcións para as funcións do mando
+Funcións do mando
+Ralentización do analóxico:
+Reduce o rango da panca analóxica cando se pulsa o botón
+Panca analóxica esquerda
+Panca analóxica dereita
+Inverter eixe analóxico:
+Cambia a dirección da cámara horizontal ou vertical
+Velocidade do botón turbo
+Cambia a velocidade de pulsación do botón cando se usa o turbo
+Ao manter pulsado o botón
+Ao pulsar o botón
+Xaponés
+Inglés
+Francés
+Español
+Alemán
+Italiano
+Holandés
+Portugués
+Ruso
+Coreano
+Chino tradicional
+Chino simplificado
+Configuración OSD
+Idioma OSD
+Force a custom language configuration
+Cambiar Idioma
+Screen Size
+Full Screen
+Video Mode
+System Default
+Música
+Volume música
+Ruta da canción
+Indica onde está localizada a canción a usar para o tema
+High
+Low
+Analog X-Axis Sensitivity
+Analog Y-Axis Sensitivity
+Files found: %i
+Cheat Selection
+Only one HDD allowed, enabling locks APA or GPT.
+Parental Lock
+Require the parental lock password to start this game.
+Set a parental lock password, or this game will not be locked.

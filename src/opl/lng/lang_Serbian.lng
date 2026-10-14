@@ -1,0 +1,331 @@
+# Serbian translation by vlatko019
+# For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
+Serbian
+Sačuvaj Promene
+Nazad
+Podešavanja Mreže
+Napredne Postavke
+<nema vrednosti>
+Postavke sačuvane u %s
+Greška pri čuvanju postavki!
+Izlaz
+Postavke
+Meni
+BDM Igre
+HDD Igre
+ETH Igre
+Aplikacije
+Teme
+Jezik
+Sistem će se ugasiti.
+Izlaz?
+Otkaži ažuriranje?
+%d: Hard Disk nije povezan.
+%d: Hard Disk nije formatiran.
+%d: Greška pri pokretanju mreže.
+%d: Mrežni adapter nije povezan.
+%d: Nemoguće se spojiti na SMB server.
+%d: Nemoguće se ulogovati na SMB server.
+%d: Nemoguće otvoriti SMB deljenje.
+%d: Nemoguće izlistati SMB deljenja.
+%d: Nemoguće izlistati igre.
+%d: DHCP server nije dostupan.
+%d: Nema mrežne konekcije.
+Uklj.
+Isklj.
+U redu
+Odaberi
+Otkaži
+O (Krug)
+X (Iks)
+Lista Igara
+Postavke Igre
+Ukloni Postavke
+Brzina skrolovanja
+Sporo
+Srednje
+Brzo
+Podrazumevani Meni
+Učitaj sa diska
+Molimo, sačekajte.
+Greška pri učitavanju ID-a igre.
+Automatsko Sortiranje
+Greška učitavanja jezičke datoteke.
+Debug Boje
+Kontroler nije povezan, čekanje…
+Slika Omota
+Široki Ekran
+Ugasi
+Učitavanje konfiguracije…
+Čuvanje konfiguracije…
+Pokreni Uređaj
+Osveži
+Početni način BDM
+Početni način HDD
+Početni način ETH
+Početni način APP
+Automatski
+Ručno
+Pokreni NBD Server
+Pokretanje NBD Servera…
+NBD Server je pokrenut.
+Pokretanje NBD servera nije uspelo.
+Zaustavljanje NBD Servera…
+IGR Putanja
+Boja Pozadine
+Boja Teksta
+- SMB Server -
+Vrsta IP Adrese
+Statična
+DHCP
+IP Adresa
+Adresa
+Maska
+Mrežni prolaz
+DNS Server
+Port
+Deljeni folder
+Korisnik
+Lozinka
+<nije postavljeno>
+Vrsta Adrese
+IP
+NetBIOS
+Prihvati
+Stavka će biti trajno obrisana, nastaviti?
+Preimenuj
+Obriši
+Pokreni
+Postavke Ekrana
+Operacije Pisanja
+Zapamti Poslednju Uključenu Igru
+Taster za Odabir
+Greška, igra je fragmentirana.
+Greška, nije moguće pokrenuti ovu stavku.
+Testiraj Promene
+Ostavi prazno za autent. GOSTA
+Tačna Čitanja
+Sinhronizacijski Način
+Otkači Syscalls
+Preskoči Videe
+Emuliraj DVD-DL
+Onemogući IGR
+Menjanje veličine će preurediti VMC.
+Kreiraj
+Pokreni
+Izmeni
+Prekini
+Resetuj
+Koristi Generički
+Konfiguriši VMC
+Naziv VMC-a
+Veličina
+Status
+Napredak
+VMC datoteka već postoji.
+Nevažeća VMC datoteka, veličina nije tačna.
+VMC datoteka treba biti stvorena.
+Greška pristupanja VMC %s. Nastaviti sa Memory Cardom u slotu %d?
+Automatsko Osvežavanje
+O
+Programeri
+Osiguranje Kvaliteta
+Putanja BDM Prefiksa
+Pokreće prilagođeni ELF nakon IGR-a.
+Vrednost u minutama, 0 za onemogućivanje zavrtanja.
+Automatsko Zavrtanje HDD-a
+Video režim
+Boja korisničkog interfejsa
+Odabrana Boja
+Resetuj Boje
+Info
+Prilagođeni ELF
+Odabir Boje
+Ponovo spoji
+Ostavi prazno za listu deljenja.
+Putanja ETH Prefiksa
+Brisanje
+Razmak
+Unesi
+Način
+VMC Slot 1
+VMC Slot 2
+ID Igre
+DMA Način
+V-Sync
+Način 1
+Način 2
+Način 3
+Način 4
+Način 5
+Način 6
+Konfiguriši GSM
+Način Povezivanja Etherneta
+100Mbit Puni-dupleks
+100Mbit Pola-dupleksa
+10Mbit Puni-dupleks
+10Mbit Pola-dupleksa
+GSM Postavke
+GSM Selektor
+Uklj./Isklj. GSM
+Forsirani prilagođeni način ekrana.
+H-POZ
+Horizontalno podešavanje.
+V-POZ
+Vertikalno podešavanje.
+Skaliranje
+Podešavanje overscana.
+Preskoči FMV
+Preskače full motion video (FMV).
+Cheat podešavanja
+PS2RD Cheat Engine
+Dopusti PS2RD Cheat Engine da zakrpa tvoju igru.
+Način PS2RD Cheat Engine
+Automatski odabir ili odaberi Cheat za igru.
+Automatski Odaberi Cheat
+Odaberi Cheat
+Greška: neuspešno učitavanje Cheat datoteke.
+Cheatovi nisu pronađeni.
+Preuzmi Podrazumevano
+Mrežno Ažuriranje
+Prepiši Postojeće Zapise
+Ažuriranje nije uspelo.
+Neuspešno spajanje na server ažuriranja.
+Ažuriranje završeno.
+Ažuriranje otkazano.
+Preuzmi postavke sa mreže?
+Prilagođene Postavke
+Preuzeta podrazumevana podešavanja
+Automatski pokreni za %i s…
+Automatski pokreni
+Vrednost u sekundama, 0 za onemogućivanje automatskog početka.
+PS2 Logo
+Prikazuje se za važeći logo diska koji odgovara regionu konzole.
+Konfiguriši PADEMU
+Postavke Pad Emulatora
+Pad Emulator
+Uklj./Isklj. Pad Emulator za odabranu igru.
+Način Pad Emulatora
+Odabire način Pad Emulatora.
+DualShock3/4 USB
+DualShock3/4 BT
+Postavke Za Port:
+Odaberi port za postavke Pad Emulatora.
+Emulacija
+Uklj./Isklj. Pad Emulator za odabrani port.
+Vibracija
+Uklj./Isklj. vibraciju za odabrani port Pad Emulatora.
+MAC Adresa USB Bluetooth Adaptera:
+DS Kontroler uparen na MAC Adresu:
+Upari
+Upari DS Kontroler
+Upari DS kontroler sa MAC adresom Bluetooth adaptera.
+Nije Spojeno
+Informacije Bluetooth Adaptera
+Prikazuje više informacija i podržana svojstva.
+HCI Verzija:
+LMP Verzija:
+ID Proizvođača:
+Podržana Svojstva:
+Da
+Ne
+Bluetooth adapter bi trebao biti potpuno kompatibilan sa DS3/DS4 kontrolerom.
+Bluetooth adapter možda neće raditi ispravno sa DS3/DS4 kontrolerom.
+Emulacija Multitapa
+Uklj./Isklj. emulaciju Multitapa za odabranu igru.
+Emulator Multitapa na Portu:
+Odaberi port za emulaciju Multitapa.
+Zaobilazno Rešenje za Lažni DS3
+Neki lažni DS3 zahtevaju zaobilazno rešenje, ova opcija će ga omogućiti.
+Emuliraj preklapanje FIELD-a
+Zakrpe za igre koje se kvare pod progresivnim video načinom.
+Postavke Roditeljskog Zaključavanja
+Lozinka Roditeljskog Zaključavanja
+Ostavi prazno za onemogućivanje roditeljskog zaključavanja.
+Unesi Lozinku Roditeljskog Zaključavanja
+Lozinka roditeljskog zaključavanja nije tačna.
+Roditeljsko zaključavanje je onemogućeno.
+Izgradi Postavke:
+Greška - ova lozinka nije validna.
+VMC %s datoteka je fragmentirana. Nastaviti sa Memory Cardom u slotu %d?
+Postavke Zvuka
+Zvučni Efekti
+Zvuk Pokretanja
+Glasnoća Zvučnih Efekata
+Glasnoća Zvuka Pokretanja
+Potvrdi promenu video načina?
+Keš Lista Igara (HDD)
+Obaveštenja
+Konfiguracija učitana iz %s
+Tema učitana iz %s
+Jezik učitan iz %s
+%s particija montirana.
+Opcije
+Postavke igre su sačuvane.
+%s postavke su uklonjene.
+Prepisivanje postojećih postavki kompatibilnosti igre kada je omogućeno.
+Način Postavki
+Globalno
+Po Igri
+Sve
+Odaberi postavke za ukloniti.
+Forumi Podrške:
+Naslov
+Žanr
+Izdanje
+Razvojni Tim
+Opis
+BDM Uređaji
+Postavke Kontrolera
+Uklj./Isklj. Block Device Manager.
+Uklj./Isklj. BDM Uređaje (USB/MX4SIO/ILINK/HDD).
+USB Igre
+iLink Igre
+MX4SIO Igre
+Konfiguriši PADMACRO
+Postavke Pad Makroa
+Pad makroi
+Usporavanje Analognih:
+Smanji opseg analogne palice kada je taster pritisnut.
+Leva Palica
+Desna Palica
+Invertovanje Analogne Ose:
+Invertuje osu odabrane analogne palice.
+Brzina Turbo Tastera
+Koliko brzo se taster pritiska kada je turbo aktivan.
+Dok je Taster Pritisnut
+Prebacivanje Tasterom
+JAPANSKI
+ENGLESKI
+FRANCUSKI
+ŠPANSKI
+NEMAČKI
+ITALIJANSKI
+HOLANDSKI
+PORTUGALSKI
+RUSKI
+KOREJSKI
+TRADICIONALNI KINESKI
+POJEDNOSTAVLJENI KINESKI
+OSD Postavke
+OSD Jezik
+Forsiraj prilagođenu jezičku konfiguraciju
+Omogući
+Veličina Ekrana
+Pun Ekran
+Video Način
+Sistemsko Podrazumevano
+Pozadinska Muzika
+Glasnoća Pozadinske Muzike
+Podrazumevana Muzika Teme
+Postavi putanju za strimovanje muzike za internu temu.
+Visoko
+Nisko
+Osetljivost Analogne X-Ose
+Osetljivost Analogne Y-Ose
+Pronađeno fajlova: %i
+Odabir Varanja
+Dozvoljen je samo jedan HDD, omogućavanje zaključava APA ili GPT.
+Parental Lock
+Require the parental lock password to start this game.
+Set a parental lock password, or this game will not be locked.

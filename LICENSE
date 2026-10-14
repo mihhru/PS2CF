@@ -1,0 +1,14 @@
+PS2CF is a distribution of multiple components, not a relicensing of those works.
+
+Each component retains its own license, copyright and attribution notices.
+See THIRD_PARTY_NOTICES.md and the license and source headers in each component.
+
+Open PS2 Loader: src/opl/LICENSE (Academic Free License 3.0).
+PS2SDK-derived CF hardware code: src/opl/modules/pccf/PS2SDK_LICENSE.txt (AFL 2.0).
+wLaunchELF includes the upstream PS2SDK license and individual source notices.
+FatFs: license notice in src/wlaunchelf/iop/cf_bdmfs/ff.c and related files.
+mymc++: tools/vendor/LICENSE.mymcplusplus (GPLv3).
+
+No rights in third-party names or trademarks are granted by the PS2CF project name.
+FMCB binary resources remain under their original distribution terms; this repository
+does not claim that the complete FMCB core source code is available.
